@@ -1,3 +1,14 @@
-.cs {
-                  margin-top: 10em;
+.bck{
+    background-color: black;
 }
+.c{
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    top: 6%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
